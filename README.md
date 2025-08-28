@@ -38,4 +38,4 @@ This folder contains two subfolders: **Data quality control**, **Difference betw
 
 * **Consistency between MOCAP and Kinect**: Investigat the consistency of spatio-temporal gait parameters between MoCap and Kinect.
 
-Specific research details can be referred to in the forthcoming paper.
+Specific research details can be referred to the published article for details: https://www.nature.com/articles/s41597-025-05458-y#MOESM1
